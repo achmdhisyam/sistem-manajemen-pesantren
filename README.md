@@ -2,6 +2,7 @@
 
 ## Deskripsi Program
 Program ini adalah aplikasi berbasis bahasa C++ untuk membantu pengelolaan data pondok pesantren.
+Project ini bertujuan untuk memenuhi Final Project struktur data
 
 Sistem menggunakan berbagai struktur data seperti:
 
@@ -194,8 +195,11 @@ Masukkan nama santri dan nilai baca kitab.
 
 # Identitas
 
+### Nama
 Achmad Hisyammuddin
+### NIM
 24051204165
+### Kelas
 TI 2024 E
 
 ### Mata Kuliah
